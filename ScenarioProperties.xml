@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="751684544">
+		<sDriverFrontEndDetails d:id="751684096">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Lv</English>
@@ -126,7 +126,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">12c40229-07d9-468c-9349-9576716f45a9</Key>
+					<Key d:type="cDeltaString">38e9db99-2c06-471e-97ab-8824406b0dc4</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -157,12 +157,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
 			<LocoAuthor d:type="cDeltaString">CS_Addon</LocoAuthor>
 			<FilePath d:type="cDeltaString">CS_Addon\OJanis\MotoroveLokomotivy\CDC753073</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="3B11962FEF122D40" d:precision="string">14.537</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="5FA8EA1A8B554940" d:precision="string">50.6683</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="000000E0C2576F40" d:precision="string">250.743</Height>
+			<Longitude d:type="sFloat64" d:alt_encoding="C3CCEB2FEF122D40" d:precision="string">14.537</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="5A22E01A8B554940" d:precision="string">50.6683</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="00000000C3576F40" d:precision="string">250.743</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="751684096">
+		<sDriverFrontEndDetails d:id="751684768">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Mn1</English>
@@ -188,7 +188,7 @@
 					<Polish d:type="cDeltaString">(D) CD_Cargo_742_396_5</Polish>
 					<Russian d:type="cDeltaString">(D) CD_Cargo_742_396_5</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">97aa7e1b-61b3-4dfc-81aa-cd6ba9509dc6</Key>
+					<Key d:type="cDeltaString">d9077941-49a7-44a1-b03a-645612327bc8</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -219,12 +219,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
 			<LocoAuthor d:type="cDeltaString">CS_Addon</LocoAuthor>
 			<FilePath d:type="cDeltaString">CS_Addon\OJanis\MotoroveLokomotivy\CDC742220</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="799F65F8542A2D40" d:precision="string">14.5827</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="795FA793E2544940" d:precision="string">50.6632</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="38E722F8542A2D40" d:precision="string">14.5827</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="6D22A693E2544940" d:precision="string">50.6632</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000A06F877040" d:precision="string">264.465</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="751683872">
+		<sDriverFrontEndDetails d:id="751683704">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">TL 6607</English>
@@ -250,7 +250,7 @@
 					<Polish d:type="cDeltaString">DB 642_B</Polish>
 					<Russian d:type="cDeltaString">DB 642_B</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">5e819d9e-501b-441b-85bd-51b2fb0c1655</Key>
+					<Key d:type="cDeltaString">70932080-f3b9-4790-a96d-8729d82dee24</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -275,7 +275,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">b9480a63-850a-4687-ac04-4e0e7baa9877</Key>
+					<Key d:type="cDeltaString">e83a0c99-66e1-401b-99e4-ecff493d5b14</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
@@ -286,7 +286,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="000000C0A8856F40" d:precision="string">252.177</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="751683928">
+		<sDriverFrontEndDetails d:id="751683872">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">TL 6002</English>
@@ -312,7 +312,7 @@
 					<Polish d:type="cDeltaString">DB 642_A</Polish>
 					<Russian d:type="cDeltaString">DB 642_A</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">68744727-a61c-4421-918c-6e38acf90ada</Key>
+					<Key d:type="cDeltaString">0bed98f6-40e0-44e2-beca-1988b232fd6b</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -374,7 +374,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">e944eac1-a4d5-4880-ad76-722af4707969</Key>
+					<Key d:type="cDeltaString">06bc6c07-d5cf-4cd9-8b92-7542053202cd</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -410,7 +410,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="00000020BF566F40" d:precision="string">250.711</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="751684768">
+		<sDriverFrontEndDetails d:id="751684152">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Hrac</English>
@@ -436,7 +436,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">982205e3-6285-4efe-9532-26fd103bcbe2</Key>
+					<Key d:type="cDeltaString">c1ac2f9f-2059-47cb-9a88-63ccd2e4456f</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -667,14 +667,39 @@
 			<Product d:type="cDeltaString">ResPack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RBlueprintSetPreLoad>
-	<NamedEntity/>
+	<NamedEntity>
+		<cScenarioProperties-cGuidToNameMapping d:id="428643374">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">5395448116134191996</e>
+						<e d:type="sUInt64">11471844459971821713</e>
+					</UUID>
+					<DevString d:type="cDeltaString">ae3aa37c-7b79-4ae0-9140-2783c12d349f</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">Mimon posun 2</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+		<cScenarioProperties-cGuidToNameMapping d:id="428643620">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">5585198299727462596</e>
+						<e d:type="sUInt64">9707293082061897384</e>
+					</UUID>
+					<DevString d:type="cDeltaString">0f5f00c4-9c43-4d82-a8fe-e76ea03bb786</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">Mimon posuny</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+	</NamedEntity>
 	<Condition/>
 	<DeferredEvent/>
 	<CheckedCondition/>
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">7ABC67AFE1A76A580701ACD8AAB9E420</MD5>
+	<MD5 d:type="cDeltaString">F38C2E2D4D05FA877F251F0F57B16340</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
