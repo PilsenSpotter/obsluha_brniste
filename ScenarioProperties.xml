@@ -126,7 +126,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">fa0d7f32-1ba0-4f33-8d5a-68e024579a22</Key>
+					<Key d:type="cDeltaString">59905822-47bf-4363-af72-a2593274e7b5</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -151,7 +151,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">6452ce7d-6336-4865-a281-d6192d955d0d</Key>
+					<Key d:type="cDeltaString">d96a226d-399a-4dcb-b264-cc3261488810</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
@@ -162,7 +162,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="0000008039AB7240" d:precision="string">298.702</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="220468704">
+		<sDriverFrontEndDetails d:id="220468592">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Mn1</English>
@@ -188,7 +188,7 @@
 					<Polish d:type="cDeltaString">(D) CD_Cargo_742_396_5</Polish>
 					<Russian d:type="cDeltaString">(D) CD_Cargo_742_396_5</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">7e531f23-82fe-4c0f-a150-431c55fc4520</Key>
+					<Key d:type="cDeltaString">a06832ba-f934-4f23-b901-acdc27a82575</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -219,12 +219,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
 			<LocoAuthor d:type="cDeltaString">CS_Addon</LocoAuthor>
 			<FilePath d:type="cDeltaString">CS_Addon\OJanis\MotoroveLokomotivy\CDC742220</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="C04083F8542A2D40" d:precision="string">14.5827</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="0694A893E2544940" d:precision="string">50.6632</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="35BD31F8542A2D40" d:precision="string">14.5827</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="D425A693E2544940" d:precision="string">50.6632</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000A06F877040" d:precision="string">264.465</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="220468984">
+		<sDriverFrontEndDetails d:id="220468648">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">TL 6607</English>
@@ -250,7 +250,7 @@
 					<Polish d:type="cDeltaString">DB 642_B</Polish>
 					<Russian d:type="cDeltaString">DB 642_B</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">01a98bd5-dbd8-461d-9715-b1677955f13e</Key>
+					<Key d:type="cDeltaString">9edf3c36-0180-4836-843e-fc4d6dd795e0</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -275,7 +275,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">8f62f28d-4035-4ba8-8f02-cbbdef691d17</Key>
+					<Key d:type="cDeltaString">a72e8512-4b6e-4622-adf4-6b707f5c9a24</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
@@ -286,7 +286,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="000000C0A8856F40" d:precision="string">252.177</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="220468592">
+		<sDriverFrontEndDetails d:id="220468704">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">TL 6002</English>
@@ -312,7 +312,7 @@
 					<Polish d:type="cDeltaString">DB 642_A</Polish>
 					<Russian d:type="cDeltaString">DB 642_A</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">cf2c4185-7fab-49d9-bd75-87813a5e4c6f</Key>
+					<Key d:type="cDeltaString">d10aab42-d52c-4d63-a676-eee0a889f640</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -348,7 +348,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="000000A072576F40" d:precision="string">250.733</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="220468648">
+		<sDriverFrontEndDetails d:id="220468816">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">R 1201</English>
@@ -374,7 +374,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">039bf35e-70a3-47c9-9b9c-22d8a511c78a</Key>
+					<Key d:type="cDeltaString">7564837a-a968-470d-9544-0bf31960199c</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -405,12 +405,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
 			<LocoAuthor d:type="cDeltaString">Railtraction</LocoAuthor>
 			<FilePath d:type="cDeltaString">Railtraction\BR628\BR628_2\E845101</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="1EA712F198102D40" d:precision="string">14.5324</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="113F7E7E97564940" d:precision="string">50.6765</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="062404F198102D40" d:precision="string">14.5324</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="09FB757E97564940" d:precision="string">50.6765</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="00000020BF566F40" d:precision="string">250.711</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="220468816">
+		<sDriverFrontEndDetails d:id="220468872">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Hrac</English>
@@ -436,7 +436,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">c2036f29-a599-4d7d-bef8-0455e2cd4ec1</Key>
+					<Key d:type="cDeltaString">cd7f4beb-34cc-4f28-9cc2-07d9a2f220f7</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -467,12 +467,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
 			<LocoAuthor d:type="cDeltaString">CS_Addon</LocoAuthor>
 			<FilePath d:type="cDeltaString">CS_Addon\OJanis\MotoroveLokomotivy\CDC750338</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="ED6C703A8D102D40" d:precision="string">14.5323</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="927D84549C564940" d:precision="string">50.6766</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="72E4773A8D102D40" d:precision="string">14.5323</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="BB5183549C564940" d:precision="string">50.6766</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000A072576F40" d:precision="string">250.733</Height>
 			<PlayerDriver d:type="bool">1</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="220468872">
+		<sDriverFrontEndDetails d:id="220468984">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Lv</English>
@@ -498,7 +498,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">82186123-f6a1-4ab2-96d6-f151da882f82</Key>
+					<Key d:type="cDeltaString">9f8399d0-8bc3-4f39-9435-a2edd96cb13f</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -529,8 +529,8 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
 			<LocoAuthor d:type="cDeltaString">CS_Addon</LocoAuthor>
 			<FilePath d:type="cDeltaString">CS_Addon\OJanis\MotoroveLokomotivy\CDC753073</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="40A71C30EF122D40" d:precision="string">14.537</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="541FD01A8B554940" d:precision="string">50.6683</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="97C94130EF122D40" d:precision="string">14.537</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="BA20CF1A8B554940" d:precision="string">50.6683</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000E0C2576F40" d:precision="string">250.743</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
@@ -761,7 +761,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">2A576CCDA3B1E49F44840B5E9F0B85AB</MD5>
+	<MD5 d:type="cDeltaString">B5F373E947558A5EB66C6F3B12B3D3D1</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
