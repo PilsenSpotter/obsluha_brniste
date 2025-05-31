@@ -9,7 +9,7 @@
 			<DevString d:type="cDeltaString">0cf16200-ad0d-4476-80ca-2a9f7c598067</DevString>
 		</cGUID>
 	</ID>
-	<String />
+	<String/>
 	<DisplayName>
 		<Localisation-cUserLocalisedString>
 			<English d:type="cDeltaString">Mn 86121/86120 [GVD 2024/25]</English>
@@ -20,7 +20,7 @@
 			<Dutch d:type="cDeltaString"></Dutch>
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
-			<Other />
+			<Other/>
 			<Key d:type="cDeltaString">da16335a-2743-444b-a45c-dbdb10a1a9d8</Key>
 		</Localisation-cUserLocalisedString>
 	</DisplayName>
@@ -34,7 +34,7 @@
 			<Dutch d:type="cDeltaString"></Dutch>
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
-			<Other />
+			<Other/>
 			<Key d:type="cDeltaString">9da2c2d7-c013-4f24-9f26-504faebbc03c</Key>
 		</Localisation-cUserLocalisedString>
 	</Description>
@@ -48,7 +48,7 @@
 			<Dutch d:type="cDeltaString"></Dutch>
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
-			<Other />
+			<Other/>
 			<Key d:type="cDeltaString">7092c4a0-98a7-4f6c-8e0b-2b42e0906cfd</Key>
 		</Localisation-cUserLocalisedString>
 	</Briefing>
@@ -62,7 +62,7 @@
 			<Dutch d:type="cDeltaString"></Dutch>
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
-			<Other />
+			<Other/>
 			<Key d:type="cDeltaString">83e543da-bc6d-4db9-8874-88245e834a95</Key>
 		</Localisation-cUserLocalisedString>
 	</StartLocation>
@@ -111,7 +111,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">9dfeea63-0bd6-481a-9304-415efc176ae9</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
@@ -125,7 +125,7 @@
 					<Dutch d:type="cDeltaString">(D) CD_Cargo_742_396_5</Dutch>
 					<Polish d:type="cDeltaString">(D) CD_Cargo_742_396_5</Polish>
 					<Russian d:type="cDeltaString">(D) CD_Cargo_742_396_5</Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">7e45181d-ce45-495e-afce-3f6e67012902</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
@@ -150,7 +150,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">5a94e0a5-9578-4981-a493-90992971688f</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
@@ -173,7 +173,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">517d7eff-91e7-4d71-ac7d-cf9d005bb0ba</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
@@ -187,7 +187,7 @@
 					<Dutch d:type="cDeltaString">DB 642_B</Dutch>
 					<Polish d:type="cDeltaString">DB 642_B</Polish>
 					<Russian d:type="cDeltaString">DB 642_B</Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">417dd242-a22b-4b87-9b92-a1addf4cc9d4</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
@@ -212,7 +212,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">62088756-c6ce-4f75-9120-37fa83e7fefb</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
@@ -235,7 +235,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">410bd0ab-566b-4d8e-9da6-87cc0c9798ca</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
@@ -249,7 +249,7 @@
 					<Dutch d:type="cDeltaString">DB 642_A</Dutch>
 					<Polish d:type="cDeltaString">DB 642_A</Polish>
 					<Russian d:type="cDeltaString">DB 642_A</Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">450b3f92-6bb2-4867-bd99-aa25539baae2</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
@@ -274,7 +274,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">54fe024b-34ef-4dc6-96bc-2fce5d2d608d</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
@@ -297,7 +297,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">bf928ee2-1d59-473e-9edb-d2c29f2887d6</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
@@ -311,7 +311,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">3b725948-edc9-4f05-be80-96598f6b4565</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
@@ -336,7 +336,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">3e8f4b74-bbbd-46c8-8b44-eb2a05f93b4e</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
@@ -359,7 +359,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">befe1275-5279-4a3d-baa2-b5c66a6264d2</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
@@ -373,7 +373,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">fef3e3b8-0441-436b-96da-1be2be90e535</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
@@ -398,7 +398,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">31e20623-26d6-4299-a087-f5c50fe3b0a3</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
@@ -421,7 +421,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">61d421a3-c70a-4216-b210-40306c154bce</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
@@ -435,7 +435,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">3e39f7aa-4e4b-4d19-9f4f-ad3a8b85be74</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
@@ -460,7 +460,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">a1328868-e08a-437b-ad54-0060a5866a4c</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
@@ -483,7 +483,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">2504a639-2077-4822-b6bc-52b7766916a6</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
@@ -497,7 +497,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">09821305-0bb9-4eb2-bb68-0650f79866a3</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
@@ -522,7 +522,7 @@
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other />
+					<Other/>
 					<Key d:type="cDeltaString">c5c58a07-1ae9-46c3-a7ce-099524787fcc</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
@@ -755,19 +755,19 @@
 			<Name d:type="cDeltaString">Mimon posuny</Name>
 		</cScenarioProperties-cGuidToNameMapping>
 	</NamedEntity>
-	<Condition />
-	<DeferredEvent />
-	<CheckedCondition />
+	<Condition/>
+	<DeferredEvent/>
+	<CheckedCondition/>
 	<CareerRules>
-		<d:nil />
+		<d:nil/>
 	</CareerRules>
 	<MD5 d:type="cDeltaString">DD107EF28B21A9B7F48AD8EF55DA45D1</MD5>
-	<MessageEvent />
+	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
-	<LocksScenario />
-	<StartDestString />
-	<TemplateStartDestMapping />
+	<LocksScenario/>
+	<StartDestString/>
+	<TemplateStartDestMapping/>
 	<IsTemplateGenerated d:type="bool">0</IsTemplateGenerated>
 	<TemplateScenarioGUID>
 		<cGUID>
